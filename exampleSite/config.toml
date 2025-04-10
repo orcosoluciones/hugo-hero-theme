@@ -32,7 +32,7 @@ theme = "hugo-hero-theme"
     meta_twitter_creator = "@zerostaticio"
 
 [[menu.main]]
-	name = "Services"
+	name = "Servicios"
 	url = "/services/"
     weight = 1
 
