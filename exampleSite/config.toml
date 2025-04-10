@@ -21,7 +21,7 @@ theme = "hugo-hero-theme"
     alt = "Hugo Hero"
 
   [params.homepage_meta_tags]
-    meta_description = "En Orco Soluciones ofrecemos asesoría e implementación de proyectos de TI enfocados en la "
+    meta_description = "En Orco Soluciones ofrecemos asesoría e implementación de proyectos de TI enfocados ayudar a las organizaciones a resolver problemas, crear valor, maximizar el crecimiento y mejorar el rendimiento del negocio, proporcionando orientación estratégica a los clientes con respecto a la tecnología y las infraestructuras de TI, para permitir ejecutar los principales procesos del negocio a través de las mejoras en IT "
     meta_og_title = "Hugo Hero Theme"
     meta_og_type = "website"
     meta_og_url = "https://hugo-hero.netlify.app"
